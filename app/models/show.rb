@@ -3,7 +3,7 @@ class Show < ActiveRecord::Base
   belongs_to :network
 
   def self.genre
-    "dramedy"
+    
 
   end
 end
